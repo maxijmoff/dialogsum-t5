@@ -1,0 +1,9 @@
+streamlit>=1.46,<2
+transformers>=4.50,<6
+torch>=2.4
+pandas>=2.0,<3
+requests>=2.31
+rouge-score>=0.1.2
+sentencepiece>=0.2
+safetensors>=0.4
+huggingface-hub>=0.30
