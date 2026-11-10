@@ -1,0 +1,5 @@
+model,tipe,ROUGE-1_F1,ROUGE-2_F1,ROUGE-L_F1
+T5-small,baseline,0.38988,0.139322,0.313293
+T5-small,terpilih,0.404703,0.150788,0.324003
+T5-base,baseline,0.432045,0.172975,0.34849
+T5-base,terpilih,0.434834,0.177048,0.351366
