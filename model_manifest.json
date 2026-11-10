@@ -1,0 +1,182 @@
+[
+  {
+    "scenario_id": "S01",
+    "model": "T5-small",
+    "learning_rate": 1e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s01-lr1e-05-bs4"
+  },
+  {
+    "scenario_id": "S02",
+    "model": "T5-small",
+    "learning_rate": 2e-05,
+    "batch_size": 4,
+    "is_baseline": true,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s02-lr2e-05-bs4"
+  },
+  {
+    "scenario_id": "S03",
+    "model": "T5-small",
+    "learning_rate": 3.0000000000000004e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s03-lr3e-05-bs4"
+  },
+  {
+    "scenario_id": "S04",
+    "model": "T5-small",
+    "learning_rate": 4e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s04-lr4e-05-bs4"
+  },
+  {
+    "scenario_id": "S05",
+    "model": "T5-small",
+    "learning_rate": 5e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": true,
+    "hf_repo_id": "zalfazaah16/t5-small-s05-lr5e-05-bs4"
+  },
+  {
+    "scenario_id": "S06",
+    "model": "T5-small",
+    "learning_rate": 1e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s06-lr1e-05-bs8"
+  },
+  {
+    "scenario_id": "S07",
+    "model": "T5-small",
+    "learning_rate": 2e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s07-lr2e-05-bs8"
+  },
+  {
+    "scenario_id": "S08",
+    "model": "T5-small",
+    "learning_rate": 3.0000000000000004e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s08-lr3e-05-bs8"
+  },
+  {
+    "scenario_id": "S09",
+    "model": "T5-small",
+    "learning_rate": 4e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s09-lr4e-05-bs8"
+  },
+  {
+    "scenario_id": "S10",
+    "model": "T5-small",
+    "learning_rate": 5e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-small-s10-lr5e-05-bs8"
+  },
+  {
+    "scenario_id": "S11",
+    "model": "T5-base",
+    "learning_rate": 1e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s11-lr1e-05-bs4"
+  },
+  {
+    "scenario_id": "S12",
+    "model": "T5-base",
+    "learning_rate": 2e-05,
+    "batch_size": 4,
+    "is_baseline": true,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s12-lr2e-05-bs4"
+  },
+  {
+    "scenario_id": "S13",
+    "model": "T5-base",
+    "learning_rate": 3.0000000000000004e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s13-lr3e-05-bs4"
+  },
+  {
+    "scenario_id": "S14",
+    "model": "T5-base",
+    "learning_rate": 4e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s14-lr4e-05-bs4"
+  },
+  {
+    "scenario_id": "S15",
+    "model": "T5-base",
+    "learning_rate": 5e-05,
+    "batch_size": 4,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s15-lr5e-05-bs4"
+  },
+  {
+    "scenario_id": "S16",
+    "model": "T5-base",
+    "learning_rate": 1e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s16-lr1e-05-bs8"
+  },
+  {
+    "scenario_id": "S17",
+    "model": "T5-base",
+    "learning_rate": 2e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s17-lr2e-05-bs8"
+  },
+  {
+    "scenario_id": "S18",
+    "model": "T5-base",
+    "learning_rate": 3.0000000000000004e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s18-lr3e-05-bs8"
+  },
+  {
+    "scenario_id": "S19",
+    "model": "T5-base",
+    "learning_rate": 4e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": false,
+    "hf_repo_id": "zalfazaah16/t5-base-s19-lr4e-05-bs8"
+  },
+  {
+    "scenario_id": "S20",
+    "model": "T5-base",
+    "learning_rate": 5e-05,
+    "batch_size": 8,
+    "is_baseline": false,
+    "is_best_validation": true,
+    "hf_repo_id": "zalfazaah16/t5-base-s20-lr5e-05-bs8"
+  }
+]
